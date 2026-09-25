@@ -4,30 +4,21 @@
 
 AI FAQ Assistant API
 
-## Demonstration Overview
+## Demonstration Video
 
-This phase contains the demonstration evidence of the developed
-AI FAQ Assistant API.
+The complete project demonstration video is available below.
 
-The demonstration will show the working project and its major
-functionalities, including:
+https://drive.google.com/file/d/1A2LG2rrLHnSNZ8BNcd2ELmqhn8k6FwLZ/view?usp=sharing
 
-- User registration
-- User login
-- Authentication
-- FAQ creation
-- FAQ search
+## Demonstration Contents
+
+The video demonstrates:
+
+- Project name
+- Purpose of the project
+- Uses and benefits
+- Project execution
+- API working process
+- FAQ management
 - AI-powered FAQ generation
-
-## Demonstration Evidence
-
-The project demonstration video will be added here once the
-project demonstration is recorded.
-
-## Demonstration Screenshots
-
-Screenshots of the working API can also be added to this folder.
-
-## Demonstration Status
-
-Project demonstration: To be added.
+- Final output
